@@ -1,0 +1,7 @@
+vobs/
+venv/
+.env
+*.pyc
+db.sqlite3
+__pycache__/
+media/
